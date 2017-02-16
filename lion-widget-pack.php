@@ -10,7 +10,7 @@ Author URI: http://codescar.eu
 License: #TODO
 */
 
-require_once ( basename( __FILE__ ) . DIRECTORY_SEPARATOR . 'lion2486-widget.php' );
-require_once ( basename( __FILE__ ) . DIRECTORY_SEPARATOR . 'widgets' . DIRECTORY_SEPARATOR . 'InPageDynamicMenu.php');
+require_once ( dirname( __FILE__ ) . DIRECTORY_SEPARATOR . 'lion2486-widget.php' );
+require_once ( dirname( __FILE__ ) . DIRECTORY_SEPARATOR . 'widgets' . DIRECTORY_SEPARATOR . 'InPageDynamicMenu.php');
 
 
